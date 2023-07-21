@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak deshpande</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **iNotebook**
+- 🔭
 
 - 🌱 I’m currently learning **React Nodejs with Expressjs**
 
