@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak deshpande</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭
-
-- 🌱 I’m currently learning **React Nodejs with Expressjs**
-
-- 💬 Ask me about **MERN stack**
+- 🌱 I’m currently learning *Machine Learning**
 
 - 📫 How to reach me **ronakdeshpande9876@gmail.com**
 
